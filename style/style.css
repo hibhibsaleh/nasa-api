@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 80px;
+    font-family: inherit;
+    color: white;
+    font-style: italic;
+}
+#logo {
+    width: auto;
+    height: 300px;
+}
+#dateInput {
+    text-align: center;
+    padding: 30px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+#apod {
+    margin-bottom: 20px;
+}
+#description {
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+    color: white;
+}
+#result {
+    text-align: center;
+    color: white;
+}
+#errorMessage {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
